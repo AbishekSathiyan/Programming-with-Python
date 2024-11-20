@@ -1,4 +1,8 @@
-for i in range(5):
-    print("Hello World..!")
-    if i < 5:
-        print("Hello World..!")
+print("Hello World..!")
+child=False
+
+print(child)
+
+name="Abi"
+
+print("Hello...",name," Welcome to Python Programming")  
