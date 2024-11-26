@@ -1,4 +1,4 @@
-#Assignment User Input
+# Assignment 2 User Input
 
 name=input("Enter Your Name: ")
 mail=input("Enter Your Email: ")
